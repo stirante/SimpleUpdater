@@ -1,0 +1,3 @@
+definition=https://dl.dropboxusercontent.com/u/102090098/Projects/AssemblerEditor/definition.txt
+base=https://dl.dropboxusercontent.com/u/102090098/Projects/AssemblerEditor/AssemblerStudio/
+extra_action=cmd /c start AssemblerStudio.bat
